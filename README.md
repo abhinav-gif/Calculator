@@ -1,4 +1,4 @@
 # Calculator
 ### Calculations Made Easy 
-Techonologies Used :- HTML CSS ReactJS Vite <br />
+**Techonologies Used :-** HTML CSS ReactJS Vite <br />
 Supports Error Handling of Mathematical Expressions
